@@ -9,6 +9,14 @@
         "chunk_size": 1024,
         "token_overlap": 128,
         "semantic_config_name": "default",
-        "language": "<Language to support for example use 'en' for English. Checked supported languages here under lucene - https://learn.microsoft.com/en-us/azure/search/index-add-language-analyzers"
+        "language": "<Language to support for example use 'en' for English. Checked supported languages here under lucene - https://learn.microsoft.com/en-us/azure/search/index-add-language-analyzers",
+        "openai_api_type": "<api type>",
+        "openai_api_version": "<openai api version>",
+        "openai_api_base": "<openai api base>",
+        "openai_api_key": "<openai api key>",
+        "openai_deployment_id": "<deployment_id>",
+        "cognitivesearch_endpoint": "<cognitive search endpoint>",
+        "cognitivesearch_key": "<cognitive search key>",
+        "cognitivesearch_index_name": "<cognitive search index file name>"
     }
 ]
